@@ -25,8 +25,8 @@ LICENSE: [MIT](./license.md)
 12. [git merge](./merge.md)
 13. [git revert](./revert.md)
 
-
 ***
+
 ***Приятного изучения!***
 
 ![Linus Torvalds][2]
