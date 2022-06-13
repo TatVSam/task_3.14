@@ -25,6 +25,8 @@ LICENSE: [MIT](./license.md)
 12. [git merge](./merge.md)
 13. [git revert](./revert.md)
 
+[Ссылки на использованные ресурсы](./resources.md)
+
 ***
 
 ***Приятного изучения!***
