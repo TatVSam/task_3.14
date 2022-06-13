@@ -33,7 +33,8 @@ LICENSE: [MIT](./license.md)
 ___
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0][3]
 
- Linus Torvalds: [Lf Asia][4] - Imported from [500px][5] ([archived version][6]) by the  [Archive Team][7]. ([detail page][8])
+ Linus Torvalds: [Lf Asia][4] - Imported from [500px][5] ([archived version][6]) by the  [Archive Team][7]. ([detail page][8]), license: [CC BY 3.0][3]
+
 
  [2]: ./assets/Linus%20Torvalds.jpeg
  [3]: https://creativecommons.org/licenses/by/3.0/
